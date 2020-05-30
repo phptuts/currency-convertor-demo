@@ -24,6 +24,14 @@
         console.log("No it didn't. This happened: ", err);
       });
   }
+
+  window.addEventListener("beforeinstallprompt", e => {
+    // this event does not fire if the application is already installed
+    // then your button still hidden ;)
+
+    // show button with display:block;
+    alert("here");
+  });
 </script>
 
 <style>
