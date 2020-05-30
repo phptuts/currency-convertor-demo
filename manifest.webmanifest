@@ -4,8 +4,8 @@
   "theme_color": "#2196f3",
   "background_color": "#2380cb",
   "display": "standalone",
-  "Scope": "/",
-  "start_url": "/",
+  "Scope": "/currency-convertor-demo/",
+  "start_url": "/currency-convertor-demo/",
   "icons": [
     {
       "src": "images/icons/icon-72x72.png",
