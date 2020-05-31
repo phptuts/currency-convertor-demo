@@ -1,4 +1,4 @@
-# Learn Svelte by building a currency conventor project
+# Learn Svelte by building a currency convertor project
 
 ## Outline
 
